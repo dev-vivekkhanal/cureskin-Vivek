@@ -164,5 +164,3 @@ function App() {
 }
 
 export default App;
-
-// ayushi.m@heallo.ai
